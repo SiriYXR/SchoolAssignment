@@ -47,3 +47,4 @@
 前4名有U盘奖励哟<br>
 前2名有科创室推优名额(以后面试科创室有加分)
 
+![FmySgJ.jpg](https://s1.ax1x.com/2018/11/30/FmySgJ.jpg)
