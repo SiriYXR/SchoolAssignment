@@ -12,7 +12,7 @@
 
 ## 提交文件格式:<br>
 0.提交文件的模板已上传<br>
-[![Fm6RfS.png](https://s1.ax1x.com/2018/11/30/Fm6RfS.png)](https://imgchr.com/i/Fm6RfS)
+[![Fm6RfS.png](https://s1.ax1x.com/2018/11/30/Fm6RfS.png)](https://imgchr.com/i/Fm6RfS)<br>
 除了专业班级姓名写自己的，文件夹命名不要动<br>
 把相应的代码放到code文件夹，资源文件放到source文件夹下就是了<br>
 如果项目没用到额外的资源文件，那source文件夹空着就行<br>
